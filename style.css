@@ -1,0 +1,23 @@
+body {
+  background-image: url(https://d343w47k4n65v3.cloudfront.net/eyJidWNrZXQiOiJiYWtlcm9icmllbi1idWNrZXQiLCJrZXkiOiJpbWFnZXMvaW5kdXN0cmllcy9JbmR1c3RyeV9QUl8xLnBuZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjE0MDAsImhlaWdodCI6NzExLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=);
+  background-size: cover;
+}
+
+.white-box {
+  background-color: white;
+  color: black;
+  text-align: end;
+}
+
+.image-container {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.me {
+  float: right;
+  scale: 75%;
+  padding: 0%;
+  margin: 0 auto;
+  border: 20px solid red;
+}
