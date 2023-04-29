@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+
+.burger {
+  z-index: 10;
+  left: 830px;
+  position: absolute;
+  top: 50px;
+}
+
+.whopper {
+  position: fixed;
+  z-index: 9;
+  top: 100px;
+  left: 750px;
+}
+
+.get {
+  z-index: 8;
+  top: 310px;
+  position: fixed;
+  left: 780px;
+}
+
+.div1 {
+  color: white;
+  left: 780px;
+  top: 350px;
+  text-align: center;
+  position: absolute;
+}
+
+.div2 {
+  color: white;
+  left: 780px;
+  top: 370px;
+  text-align: center;
+  position: absolute;
+}
+
+.div3 {
+  color: white;
+  left: 780px;
+  top: 400px;
+  text-align: center;
+  position: absolute;
+}

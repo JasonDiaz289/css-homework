@@ -1,0 +1,48 @@
+.header {
+  left: 650px;
+  position: fixed;
+  top: 20px;
+}
+
+.combo {
+  position: fixed;
+  left: 850px;
+  top: 100px;
+}
+
+.corp {
+  top: 100px;
+  left: 750px;
+  position: fixed;
+}
+
+.nutri {
+  position: fixed;
+  top: 100px;
+  left: 1070px;
+}
+
+.welcome {
+  top: 350px;
+  position: fixed;
+}
+
+.info {
+  position: fixed;
+  top: 375px;
+}
+
+.current {
+  position: fixed;
+  top: 400px;
+}
+
+.nutrinfo {
+  position: fixed;
+  top: 425px;
+}
+
+.kids {
+  position: fixed;
+  top: 450px;
+}

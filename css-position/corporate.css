@@ -1,0 +1,81 @@
+.lefhead {
+  position: fixed;
+  left: 350px;
+}
+
+.righead {
+  position: fixed;
+  left: 950px;
+  top: 50px;
+}
+
+.crown {
+  position: fixed;
+  top: 100px;
+  left: 740px;
+}
+
+.h2 {
+  position: fixed;
+  top: 250px;
+}
+
+.h3 {
+  position: fixed;
+  top: 275px;
+}
+
+.h4 {
+  position: fixed;
+  top: 300px;
+}
+
+.h5 {
+  position: fixed;
+  top: 325px;
+}
+
+.h6 {
+  position: fixed;
+  top: 350px;
+}
+
+.h7 {
+  position: fixed;
+  top: 375px;
+}
+
+.h8 {
+  position: fixed;
+  top: 400px;
+}
+
+.h9 {
+  position: fixed;
+  top: 450px;
+}
+
+.h10 {
+  position: fixed;
+  top: 475px;
+}
+
+.h11 {
+  position: fixed;
+  top: 500px;
+}
+.h12 {
+  position: fixed;
+  top: 550px;
+}
+
+.h13 {
+  position: fixed;
+  top: 575px;
+}
+
+@media screen and (min-width: 400px) {
+  body {
+    background-color: red;
+  }
+}

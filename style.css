@@ -6,7 +6,9 @@ body {
 .white-box {
   background-color: white;
   color: black;
-  text-align: end;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .image-container {
@@ -20,4 +22,9 @@ body {
   padding: 0%;
   margin: 0 auto;
   border: 20px solid red;
+}
+
+h1,
+h2 {
+  text-align: center;
 }
